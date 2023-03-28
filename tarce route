@@ -1,0 +1,6 @@
+1. The number of hops/routers between your system and the target system depends on the time you are running traceroute. There is no guarantee that your packets will always
+follow the same route, even if you are on the same network or you repeat the traceroute command within a short time.
+
+2. Some routers return a public IP address. You might examine a few of these routers based on the scope of the intended penetration testing.
+
+3. Some routers don’t return a reply.
